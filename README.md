@@ -1,3 +1,5 @@
+![alt text](https://upload.wikimedia.org/wikipedia/commons/c/c5/Spectrogram-19thC.png)
+
 <h2>Freesound Audio Tagging 2019 Competition</h2>
 
 <b>Link of the competition</b>: https://www.kaggle.com/c/freesound-audio-tagging-2019
